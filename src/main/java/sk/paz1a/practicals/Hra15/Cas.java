@@ -9,7 +9,6 @@ public class Cas {
 		int hodiny = 0;
 		int minuty = 0;
 		int sekundy = 0;
-		//date
 		Date d = new Date();
 		hodiny = LocalTime.now().getHour();
 	//	System.out.println(hodiny);
